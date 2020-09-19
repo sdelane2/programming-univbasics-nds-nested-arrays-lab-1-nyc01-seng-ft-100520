@@ -37,10 +37,7 @@ def sorted_matrix
     ORGANIC_PRODUCE
     ]
   
-  produce_storage_room[0].sort
-  produce_storage_room[1].sort
-  
-  produce_storage_room
+ produce_storage_room.sort
   
 end
 
