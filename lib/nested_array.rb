@@ -52,11 +52,7 @@ def matrix_lookup(matrix, row, column)
     ORGANIC_PRODUCE
     ]
   
-  produce_storage_room[0] = produce_storage_room[0].sort 
-  produce_storage_room[1] = produce_storage_room[1].sort
-  
   produce_storage_room[1][1]
-  
   
   
 end
