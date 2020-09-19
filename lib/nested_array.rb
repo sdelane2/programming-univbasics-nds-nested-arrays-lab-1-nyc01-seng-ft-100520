@@ -49,14 +49,12 @@ produce_storage_room = [
     CONVENTIONAL_PRODUCE,
     ORGANIC_PRODUCE
     ]
-  
+    return produce_storage_room[1][1]
   sorted_produce_storage_room = [
     CONVENTIONAL_PRODUCE.sort,
     ORGANIC_PRODUCE.sort
     ]
-
-return produce_storage_room[1][1]
-return sorted_produce_storage_room[1][1]
+  return sorted_produce_storage_room[1][1]
 
 
 end
